@@ -1,0 +1,15 @@
+.div-class{
+    background-color:gray;
+    padding: 20px;
+    border: 2px solid black;
+
+}
+.h1-class{
+    color: black;
+}
+.h2-class{
+    color:red
+}
+.p-class{
+    color: white;
+}
